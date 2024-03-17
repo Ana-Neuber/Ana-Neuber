@@ -20,5 +20,5 @@
 <br />
 
 [instagram]: https://instagram.com/ananeuber_oct
-[linkedin]: https://linkedin.com/in/ana-neuber-533b03264/
+[linkedin]: https://linkedin.com/in/ana-neuber
 
