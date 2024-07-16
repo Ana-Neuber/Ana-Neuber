@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Java.
 - 🤩 Current goal: dedicate more in personal projects.
-- 👾 Want to learn more about game development.
+- 👾 Want to learn more about Cyber Security
 - 🎵 I love music!
 
 
