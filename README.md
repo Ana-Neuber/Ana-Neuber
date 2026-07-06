@@ -4,9 +4,9 @@
 
 ## I'm a CS Student!!
 
-- 🌱 I’m currently learning Java.
-- 🤩 Current goal: dedicate more in personal projects.
-- 👾 Want to learn more about Cyber Security
+- 🌱 I’m currently learning Python for Graph Neural Networks.
+- 🤩 Current goal: dedicate more in my Undergraduate Research.
+- 👾 Want to learn more about Case-Based Reasoning
 - 🎵 I love music!
 
 
